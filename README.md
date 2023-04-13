@@ -4,7 +4,7 @@ I'm a tech guy who loves working in software engineering, game/web/app developme
 
 ## Languages and Tools:
 
-### Front-End
+#### Front-End
 
 <img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" style="padding-right:10px;" />
 <img align="left" alt="TypeScript" width="26px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" style="padding-right:10px;" />
