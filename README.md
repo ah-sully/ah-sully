@@ -1,4 +1,4 @@
-# Hi there, I'm AH-Soliman
+# Hi there,
 
 I'm a tech guy who loves working in software engineering, game/web/app development, 3D/2D graphics, animation, and more
 
