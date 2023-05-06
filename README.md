@@ -14,6 +14,7 @@ I'm a tech guy who loves working in software engineering, game/web/app developme
 <img align="left" alt="CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" style="padding-right:10px;" />
+<img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" style="padding-right:10px;" />
 <img align="left" alt="Figma" width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="padding-right:10px;" />
 <img align="left" alt="MUI" width="26px" src="https://images2.imgbox.com/03/ff/FBmAciXw_o.png" style="padding-right:10px;" />
 <img align="left" alt="bulma" width="26px" src="https://images2.imgbox.com/8a/d1/Prt1HN7e_o.png" style="padding-right:10px;" />
@@ -24,7 +25,6 @@ I'm a tech guy who loves working in software engineering, game/web/app developme
 
 <img align="left" alt="python" width="26px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" style="padding-right:10px;" />
 <img align="left" alt="GraphQL" width="26px" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" style="padding-right:10px;" />
 <img align="left" alt="Express" width="26px" src="https://images2.imgbox.com/f0/a0/NsIsAaGl_o.png" style="padding-right:10px; background-color:#fff" />
 <img align="left" alt="MongoDB" width="26px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" style="padding-right:10px;" />
