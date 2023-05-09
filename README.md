@@ -6,6 +6,8 @@ I'm a tech guy who loves working in software engineering, game/web/app developme
 
 ## Languages and Tools:
 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ah-sully&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+ -->
 #### Front-End
 
 <img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" style="padding-right:10px;" />
