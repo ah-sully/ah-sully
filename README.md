@@ -1,7 +1,3 @@
-# Hi there,
-
-I'm a tech guy who loves working in software engineering, game/web/app development, 3D/2D graphics, animation, and more
-
 🐱‍👤*My approach is simple: use the best tool for the task. If I'm unfamiliar, I learn quickly.*.🐱‍👤
 
 ## Languages and Tools:
